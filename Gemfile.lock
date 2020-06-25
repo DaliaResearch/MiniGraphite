@@ -10,7 +10,7 @@ GEM
     minitest (5.10.3)
     mocha (1.2.1)
       metaclass (~> 0.0.1)
-    rack (2.0.3)
+    rack (2.2.3)
     rake (12.2.1)
 
 PLATFORMS
